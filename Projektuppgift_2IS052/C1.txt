@@ -1,0 +1,1 @@
+{"SecretKey":"JdeM6HSdyQscS2PmgjdIcKnAPA4r+RB+uziipTfvk/A=","PathToClient":"C1.txt"}

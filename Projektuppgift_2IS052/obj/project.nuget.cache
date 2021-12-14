@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrUvEpYBh3zrKyp/YnftFmPb9ODw6eKSJ7ztkBwrDfFOC+htFkJTEgrqXxgW2D9HKTIQuVd8WekZ/maplX66jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Projektuppgift_2IS052\\passman\\Projektuppgift_2IS052\\Projektuppgift_2IS052.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

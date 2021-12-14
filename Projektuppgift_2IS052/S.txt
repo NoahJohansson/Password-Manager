@@ -1,0 +1,1 @@
+{"IV":"n77GBE7fXsxlZPqPayQ/ww==","Encrypted":"BZWQUZ0JIBen+UQNCtd4+Q==","PathToServer":"S.txt"}
